@@ -4,6 +4,8 @@
 
 </br>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-souza-campos/)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:contato.souzacamposjv@gmail.com)
@@ -13,20 +15,14 @@
 
 ---
 
-</br>
-
 <div align="center">  
   <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=souzajv&show_icons=true&theme=highcontrast&ring_color=fb5012&border_radius=5&title_color=fb5012&icon_color=fb5012" alt="Matheus Maia Alvarez github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzajv&layout=compact&&theme=highcontrast&title_color=fb5012&text_bold=true&border_radius=5&card_width=40%" />
 </div>
 
-</br>
-
 ---
 
-</br>
-
-<div>
+<div align="center">
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
