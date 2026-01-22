@@ -16,8 +16,7 @@
 ---
 
 <div align="center">  
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=souzajv&show_icons=true&theme=highcontrast&ring_color=fb5012&border_radius=5&title_color=fb5012&icon_color=fb5012" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzajv&layout=compact&&theme=highcontrast&title_color=fb5012&text_bold=true&border_radius=5&card_width=40%" />
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzajv&layout=compact&&theme=highcontrast&title_color=fb5012&text_bold=true&border_radius=5&card_width=40%" />
 </div>
 
 ---
